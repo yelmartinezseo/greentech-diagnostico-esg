@@ -1,0 +1,33 @@
+{
+  "title": "Diagnóstico ESG para pymes",
+  "upload_type": "software",
+  "description": "Cuestionario para evaluar en unos 5 minutos el nivel de madurez ESG de una pyme, con 52 indicadores en 5 módulos, e informe imprimible o descargable en PDF. Los datos se procesan en el navegador y no se envían a ningún servidor.",
+  "creators": [
+    {
+      "name": "Martínez, Yel",
+      "orcid": "0009-0003-0219-7265"
+    }
+  ],
+  "license": "gpl-2.0-or-later",
+  "keywords": [
+    "ESG",
+    "pymes",
+    "sostenibilidad",
+    "diagnóstico",
+    "Greentech"
+  ],
+  "language": "spa",
+  "related_identifiers": [
+    {
+      "identifier": "https://yel-martinez-portfolio.com/recursos/diagnostico-esg-gratuito-para-pymes-evalua-tu-sostenibilidad-en-5-minutos/",
+      "relation": "isDocumentedBy",
+      "resource_type": "publication-other",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://github.com/yelmartinezseo/greentech-diagnostico-esg",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
