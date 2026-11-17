@@ -1,6 +1,6 @@
 # Diagnóstico ESG para pymes
 
-Cuestionario para evaluar en unos 5 minutos el nivel de madurez ESG de una pyme (52 indicadores en 4 dimensiones). Ofrece un informe que se puede imprimir o guardar en PDF desde el navegador.
+Cuestionario para evaluar en unos 5 minutos el nivel de madurez ESG de una pyme (52 indicadores en 5 módulos). Ofrece un informe que se puede imprimir o guardar en PDF desde el navegador.
 
 Es software libre. Los datos que se escriben en la herramienta se procesan en el navegador y no se envían a ningún servidor.
 
