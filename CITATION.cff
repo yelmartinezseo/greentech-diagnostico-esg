@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "Si usas este software, cítalo con estos metadatos. El DOI apunta siempre a la versión más reciente."
+type: software
+title: "Diagnóstico ESG para pymes"
+abstract: "Evalúa el nivel ESG de tu pyme gratis en 5 minutos. Alineado con el Registro SIR, Pyme Sostenible y normativa VSME europea. Informe PDF descargable."
+authors:
+  - family-names: "Martínez"
+    given-names: "Yel"
+    alias: "yelmartinezseo"
+    affiliation: "Greentech"
+    website: "https://yel-martinez-portfolio.com"
+    orcid: "https://orcid.org/0009-0003-0219-7265"
+doi: "10.5281/zenodo.24310470"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.24310470"
+    description: "DOI de concepto en Zenodo (todas las versiones)"
+license: GPL-2.0-or-later
+repository-code: "https://github.com/yelmartinezseo/greentech-diagnostico-esg"
+url: "https://yel-martinez-portfolio.com/recursos/diagnostico-esg-gratuito-para-pymes-evalua-tu-sostenibilidad-en-5-minutos/"
+keywords:
+  - "ESG"
+  - "pymes"
+  - "sostenibilidad"
+  - "Comunitat Valenciana"
+  - "Greentech"
+  - "open source"
